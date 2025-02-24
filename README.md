@@ -19,6 +19,3 @@ In the browser, click the `.ipynb` file and run each cell to execute the code.
 
 Step 7: Launch the Web App (If Applicable)  
 If the project includes a web interface, start it with `python app.py`.  
-
-Step 8: Access the Web App  
-Open the provided URL in your browser (e.g., `http://127.0.0.1:7860/`) to interact with the app.    
